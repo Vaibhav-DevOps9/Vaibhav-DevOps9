@@ -107,12 +107,10 @@ I'm passionate about Azure Cloud, DevSecOps, Infrastructure as Code, security au
 **Build securely. Automate intelligently. Optimize continuously.** 🚀
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/vaibhav-bajpai-6566073aa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn"/>
-  </a>
+<a href="https://www.linkedin.com/in/vaibhav-bajpai-6566073aa/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
 </p>
-I'm passionate about Azure Cloud, DevSecOps, Infrastructure as Code, security automation, FinOps, and AI in DevOps.
 
-**Build securely. Automate intelligently. Optimize continuously.** 🚀
 
 Feel free to explore my repositories and connect with me!
