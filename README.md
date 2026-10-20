@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Vaibhav Bajpai 👋
 
 ### Azure DevOps | DevSecOps | Infrastructure as Code
