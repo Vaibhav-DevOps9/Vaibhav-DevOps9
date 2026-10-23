@@ -100,11 +100,11 @@ Exploring AI-assisted coding, agentic workflows, and productivity improvements f
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect 
 
 I'm passionate about Azure Cloud, DevSecOps, Infrastructure as Code, security automation, FinOps, and AI in DevOps.
 
-**Build securely. Automate intelligently. Optimize continuously.** 🚀
+**Build securely, Automate intelligently. Optimize continuously.** 🚀
 
 <p align="left">
 <a href="https://www.linkedin.com/in/vaibhav-bajpai-6566073aa/" target="_blank">
