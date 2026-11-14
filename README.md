@@ -92,11 +92,11 @@ Exploring AI-assisted coding, agentic workflows, and productivity improvements f
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="Vaibhav GitHub Metrics" width="100%"/>
+  <img src="./github-metrics.svg" alt="Vaibhav GitHub Metrics" width="50%"/>
 </p>
 
 <p align="center">
-  <img src="./languages.svg" alt="Top Programming Languages" width="70%"/>
+  <img src="./languages.svg" alt="Top Programming Languages" width="50%"/>
 </p>
 
 
