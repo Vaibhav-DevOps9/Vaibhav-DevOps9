@@ -1,0 +1,39 @@
+
+name: GitHub Profile Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate-metrics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate GitHub Profile Stats
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Vaibhav-DevOps9
+          filename: github-metrics.svg
+          base: header, activity, community, repositories, metadata
+
+      - name: Generate Top Languages
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Vaibhav-DevOps9
+          filename: languages.svg
+          base: ""
+          plugin_languages: yes
+          plugin_languages_limit: 5
+          plugin_languages_details: percentage
