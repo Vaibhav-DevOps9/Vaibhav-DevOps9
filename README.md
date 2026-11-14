@@ -88,15 +88,17 @@ Exploring AI-assisted coding, agentic workflows, and productivity improvements f
 
 ---
 
+
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav-DevOps9&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>
+<p align="center">
+  <img src="./github-metrics.svg" alt="Vaibhav GitHub Metrics" width="100%"/>
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-DevOps9&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
+<p align="center">
+  <img src="./languages.svg" alt="Top Programming Languages" width="70%"/>
 </p>
+
 
 ---
 
